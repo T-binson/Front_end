@@ -9,3 +9,8 @@ h1 {
 p {
 	color: #f40;
 }
+ul li {
+	list-style: none;
+	color: #424242;
+	font: italic 20px 'Microsoft YaHei';
+}
